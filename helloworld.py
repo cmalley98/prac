@@ -13,3 +13,4 @@ class helloworld(object):
 bop = helloworld(6, 9)
 for i in range(0, 10):
 	print(bop)
+	print(hiya)
